@@ -33,6 +33,7 @@
   "timestamps",
   "trim_reblogs",
   "tweaks",
+  "uncensor",
   "vanilla_audio",
   "vanilla_video"
 ]

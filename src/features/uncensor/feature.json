@@ -1,0 +1,22 @@
+{
+  "title": "Uncensor",
+  "description": "Uncensor headers and avatars",
+  "icon": {
+    "class_name": "ri-user-unfollow-line",
+    "color": "white",
+    "background_color": "#b5241c"
+  },
+  "help": "https://github.com/AprilSylph/XKit-Rewritten/wiki/Features#hide-avatars",
+  "preferences": {
+    "uncensorAvatars": {
+      "type": "checkbox",
+      "label": "Uncensor Avatars",
+      "default": "true"
+    },
+    "uncensorHeaders": {
+      "type": "checkbox",
+      "label": "Uncensor Headers",
+      "default": "true"
+    }
+  }
+}
